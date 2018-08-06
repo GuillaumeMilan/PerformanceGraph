@@ -1,12 +1,12 @@
 # PerformanceGraph
 ---
-*Create a performance graph from a file created from log of the time command*
+*Create a concurent performance graph from files created from log of the time command*
 
 To create the graphical view of the data contained in the file 
 
-`./graphic <file> <output.pdf>`
+`./graphic <file1> <file2> <...> <fileN> <output.pdf>`
 
-* The file structure should be as:
+* The files structure should be as:
 
 ```
 
