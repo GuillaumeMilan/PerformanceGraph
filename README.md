@@ -1,8 +1,12 @@
 # PerformanceGraph
 ---
 *Create a concurent performance graph from files created from log of the time command*
+## Introduction 
+This software objective is to provide a nice colorscheme based on hue random 
+variation. To provide a nice and readable Graph output. 
 
-To create the graphical view of the data contained in the file 
+To create the graphical view of the data contained in the file:
+
 
 `./graphic <file1> <file2> <...> <fileN> <output.pdf>`
 
