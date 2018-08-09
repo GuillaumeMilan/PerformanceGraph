@@ -59,4 +59,4 @@ plt.ylabel('real time spent')
 plt.legend(loc='upper left')
 #plt.show()
 
-f.savefig("foo.pdf", bbox_inches='tight')
+f.savefig(sys.argv[-1], bbox_inches='tight')
